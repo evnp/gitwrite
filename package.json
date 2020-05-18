@@ -1,0 +1,24 @@
+{
+  "name": "gitwrite",
+  "version": "0.0.1",
+  "description": "History is priceless.",
+  "main": "TBD",
+  "scripts": {
+    "test": "TBD"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evnp/gitwrite.git"
+  },
+  "keywords": [
+    "writing",
+    "blogging",
+    "git"
+  ],
+  "author": "Evan Purcer <evanpurcer@gmail.com> (http://evnp.ca)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evnp/gitwrite/issues"
+  },
+  "homepage": "https://gitwrite.dev"
+}
